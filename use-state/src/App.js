@@ -1,9 +1,10 @@
-import Agua from './components/Agua';
+//import Agua from './components/Agua';
+import Operacion from './components/Operacion'
 
 function App() {
   return (
     <div className="App">
-      <Agua temperatura={4}/>
+      <Operacion suma={5}/>
     </div>
   );
 }
