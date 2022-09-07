@@ -5,7 +5,7 @@ const Catalogo = () => {
     return (
         <div className="CatalogoCards" >
             <Card></Card>
-            <Card></Card>
+            <Card background-color="bleue"></Card>
             <Card></Card>
         </div>
     )
