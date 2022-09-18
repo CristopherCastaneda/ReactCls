@@ -1,10 +1,8 @@
-import PostList from './Components/PostList';
+import UserCard from "./Components/UserCard/UserCard";
 
 function App() {
   return (
-    <div className="App">
-      <PostList />
-    </div>
+   <UserCard />
   );
 }
 
